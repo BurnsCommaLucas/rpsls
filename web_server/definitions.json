@@ -1,0 +1,27 @@
+[
+	{
+		"id": 1, 
+		"name": "rock",
+		"beats": [3,4]
+	},
+	{
+		"id": 2,
+		"name": "paper",
+		"beats": [1,5] 
+	},
+	{
+		"id": 3,
+		"name": "scissors",
+		"beats": [2,4] 
+	},
+	{
+		"id": 4,
+		"name": "lizard",
+		"beats": [2,5] 
+	},
+	{
+		"id": 5,
+		"name": "spock",
+		"beats": [1,3] 
+	}
+]
